@@ -1,0 +1,7 @@
+medium,visitors,viewed_item,added_to_cart,began_checkout,purchased,purchase_rate_pct,view_rate_pct,cart_rate_pct,checkout_rate_pct,checkout_to_purchase_pct
+unknown (data deleted),17210,4994,1368,1141,688,4.0,29.0,27.4,83.4,60.3
+referral,54380,12730,2704,2099,1026,1.9,23.4,21.2,77.6,48.9
+direct,75025,16492,3338,2430,1054,1.4,22.0,20.2,72.8,43.4
+organic,111346,24077,4508,3298,1323,1.2,21.6,18.7,73.2,40.1
+other (grouped),50777,10439,1962,1368,499,1.0,20.6,18.8,69.7,36.5
+cpc,15450,3156,561,390,152,1.0,20.4,17.8,69.5,39.0
